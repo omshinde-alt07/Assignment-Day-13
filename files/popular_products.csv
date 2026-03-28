@@ -1,0 +1,13 @@
+name,category,price,stock,rating,num_reviews
+iPhone 14,Electronics,80000,50,4.8,500
+Samsung TV,Electronics,45000,30,4.5,300
+Bluetooth Speaker,Electronics,1500,100,4.2,150
+Laptop,Electronics,70000,20,4.6,250
+Wireless Mouse,Electronics,800,130,4.1,180
+Jacket,Clothing,3500,120,4.3,120
+Sneakers,Clothing,4000,80,4.4,110
+Python Book,Books,600,60,4.7,200
+Data Science Book,Books,1200,40,4.6,180
+Novel,Books,700,110,4.3,130
+Headphones,Electronics,2500,95,4.6,220
+Smartwatch,Electronics,10000,40,4.3,170
